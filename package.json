@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lizhiqianduan/geojson-of-china-full.git"
+    "url": "git+https://github.com/MooreLxr/reptile-China-geojson.git"
   },
   "author": "Moore",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lizhiqianduan/geojson-of-china-full/issues"
+    "url": "https://github.com/MooreLxr/reptile-China-geojson/issues"
   },
-  "homepage": "https://github.com/lizhiqianduan/geojson-of-china-full#readme",
+  "homepage": "https://github.com/MooreLxr/reptile-China-geojson#readme",
   "dependencies": {},
   "devDependencies": {
     "cross-env": "^7.0.3",
