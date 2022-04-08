@@ -1,4 +1,4 @@
-# reptile-china-geojson
+# reptile-China-geojson
 获取全国行政区域json文件
 
 ## 数据来源：
